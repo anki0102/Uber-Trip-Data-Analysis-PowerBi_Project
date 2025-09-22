@@ -11,14 +11,23 @@ The goal is to help stakeholders understand ride demand, revenue performance, an
 
 The project delivers three dashboards:
 
-* #### Overview Analysis – 
-    Summarizes key KPIs such as Total Bookings, Revenue, Trip Distance, and Average Trip Time while providing insights by vehicle type, payment method, and popular locations.
+## Overview Analysis
 
-* #### Time Analysis – 
-    Examines booking patterns across different time intervals, days of the week, and peak demand hours using line charts, area charts, and heatmaps.
+Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 
-* #### Details – 
-    Provides a drill-through enabled data grid for exploring granular trip-level details, supporting deeper analysis and decision-making.
+![Overview](Images/Overview.png)
+
+# Time Analysis
+
+To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
+
+![TimeAnalysis](Images/TimeAnalysis.png)
+
+# Details View
+
+To provide in-depth insights and allow users to explore granular data, a Grid Tab will be created. This tab will enable drill-through functionality, allowing users to access detailed records based on selections made in other dashboards.
+
+![Details](Images/Details.png)
 
 By combining KPIs, dynamic filters, and drill-through capabilities, this project enables Uber to optimize driver allocation, pricing models, and customer satisfaction strategies.
 ## 🎯 Business Objectives
@@ -64,5 +73,8 @@ By meeting these objectives, the analysis empowers Uber to enhance pricing strat
 * #### Provide actionable insights –  
   Support strategic decision-making with clear, data-driven findings
 
+
+
 # Author : Ankit Raj
+
 # LinkedIn : https://www.linkedin.com/in/ankit-raj-5899631a3/
